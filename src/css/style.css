@@ -1,0 +1,11 @@
+/* 
+@font-face {
+    font-family: 'HelveticaLM';
+    font-style: normal;
+    src: url('../public/fonts/HelveticaNeueLTStd-MdCn.otf');
+    
+ } */
+.NavItem{
+        font-family: HelveticaLM;
+        color:black;
+}
